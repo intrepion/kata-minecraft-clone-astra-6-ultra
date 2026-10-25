@@ -52,3 +52,7 @@ npm run test:e2e
 ```
 
 The unit suite checks player collision, flight, jumping, world generation and edits, and saved-data validation. Browser tests cover starting, movement, block editing, inventory, settings, saving, and the mobile layout.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-minecraft-clone-astra-6-ultra/)
