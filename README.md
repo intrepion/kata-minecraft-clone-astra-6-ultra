@@ -56,3 +56,7 @@ The unit suite checks player collision, flight, jumping, world generation and ed
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-minecraft-clone-astra-6-ultra/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
